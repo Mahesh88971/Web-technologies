@@ -1,0 +1,8 @@
+Inside Form Tag
+
+<input>
+<select>
+<textarea>
+<fieldset>
+<output>
+<legend>

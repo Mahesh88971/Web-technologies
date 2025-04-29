@@ -1,0 +1,20 @@
+The valid values for the type attribute
+1.Text=default value
+2.password
+3.submit
+4.3reset
+5.button
+6.checkbox
+7.radio
+8.file 
+9.number
+10.range
+11.color
+12.event
+13.date
+14.time
+15.datetime-local
+16.month
+17.year
+18.week
+19.list

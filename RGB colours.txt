@@ -1,0 +1,10 @@
+In RGB colours
+	r : 0-255
+	g : 0-255
+	b : 0-255
+
+	rgb(255,0,0) ---> red
+	rgb(0,255,0) ---> green
+	rgb(0,0,255) ---> blue
+	rgb(0,0,0) ---> black
+	rgb(255,255,255) ---> white
